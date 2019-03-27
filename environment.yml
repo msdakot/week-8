@@ -1,7 +1,7 @@
 name: musa-620
 channels:
-  - defaults
   - conda-forge
+  - defaults
   - pyviz
   - clinicalgraphics
   - udst
