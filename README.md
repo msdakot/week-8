@@ -4,7 +4,7 @@
 
 ## Updating your local environment
 
-There are a few new packages we'll need for web scraping this week so we'll need
+There are a few new packages this week so we'll need
 to update your Python environment. The `environment.yml` in this repository
 contains all of the necessary packages. To update your local environment:
 
